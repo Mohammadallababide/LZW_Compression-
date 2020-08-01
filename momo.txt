@@ -1,0 +1,15 @@
+In this article I will provide you an approach to manipulate an image file.
+This article gives you an insight into some tricks in jav
+a so that you can conceal sensitive information inside an image, hid
+e your complete image as text ,search for a particular image inside a directory, mi
+nimize the size of the image. However this is not a new concept, there is a concept called Steganography w
+hich enables to conceal your secret information inside an image. For this concept many very sophi
+sticated softwares are available to manipulate the images. But as a java developer we can also achieve it to an extent.
+ Normally many people keep all the personal images in a particular directory and others view the images by searc
+ hing as *.jpg . It hampers the privacy of your photos and images. In this article I will show you how you can convert you
+ r pictures, photos and images into text file to increase more privacy. Others can view your text file but can not u
+ nderstand what it is. There are occasions many users put all their secret and sesitive information like several bank detai
+ ls, credit card numbers ,email password details etc in a text file so that they can login specific applications easi
+ ly. But it creates a problem when other others use the systems where these information are there . In this article I w
+ ill show you how you can hide your personal details inside an image and you can retrieve the details as and when requi
+ red. Let us go into the techincal details as I do not want to prolong my description.
